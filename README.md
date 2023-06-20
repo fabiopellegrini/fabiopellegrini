@@ -5,6 +5,7 @@ I am a passionate software developer with a solid background in event-driven arc
 At the moment I am focusing mainly on software architecture topics and Elixir development.
 
 ### When I am not working on nerd stuff
+- 🌎 I travel
 - 🚴 I ride my gravel
 - 🏃 I go running
 - 📃 I write music
